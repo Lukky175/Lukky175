@@ -21,9 +21,10 @@ Worked on projects involving:
 - Secure artifact management and deployment strategies
 
 ## Open to:
-- Full-time DevOps roles
-- Internship opportunities
 - Contract-based infrastructure & automation work
+- Internship opportunities
+- Full-time DevOps roles
+
 
 📫 **Email:** lakshit175@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/lakshit175/
