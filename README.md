@@ -30,7 +30,7 @@ Worked on projects involving:
 💼 LinkedIn: https://www.linkedin.com/in/lakshit175/
 
 
-- Always learning. Always building. Always improving.
+### Always learning. Always building. Always improving.
 
 
 ## 🧠 My Focus Areas
