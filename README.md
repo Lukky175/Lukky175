@@ -1,20 +1,35 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Lakshit%20Tyagi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-## 📌 About Me
-- ## About Me
-- DevOps Engineer focused on building scalable, automated, and production-ready infrastructure.
-- Currently pursuing B.Tech from Bennett University with hands-on experience in Cloud, CI/CD, Infrastructure as Code, and Container Orchestration.
-- Skilled in:
-- AWS & Azure Cloud
-- Docker & Kubernetes
-- Jenkins & Azure DevOps
-- Terraform & Infrastructure Automation
-- Linux, Python, Git & GitHub
-- Artifact Management & Infracost
-- I enjoy solving infrastructure challenges, automating workflows, optimizing deployments, and building reliable DevOps pipelines that scale.
+## About Me
+
+DevOps Engineer focused on building scalable infrastructure, automating deployments, and implementing production-grade CI/CD workflows.
+
+Currently pursuing B.Tech from Bennett University with hands-on experience across Cloud, Infrastructure as Code, Container Orchestration, and DevSecOps practices.
+
+Experienced with:
+`AWS` `Azure` `Docker` `Kubernetes` `Jenkins` `Terraform` `Azure DevOps` `Linux` `Python` `Git` `GitHub` `Artifact Management` `Infracost`
+
+I work on real-world deployments and actively document implementation strategies, deployment pipelines, and infrastructure workflows to help others replicate production-ready environments.
+
+Worked on projects involving:
+- GitOps-based deployment workflows
+- Kubernetes cluster deployments & container orchestration
+- CI/CD automation pipelines
+- Infrastructure provisioning using Terraform
+- Cloud-native application deployments
+- Cost optimization and infrastructure analysis
+- Secure artifact management and deployment strategies
+
+Open to:
+- Full-time DevOps roles
+- Internship opportunities
+- Contract-based infrastructure & automation work
+
+📫 **Email:** lakshit175@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/lakshit175/
+
+
 - Always learning. Always building. Always improving.
-- 📫 Email: lakshit175@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/lakshit175/
 
 
 ## 🧠 My Focus Areas
