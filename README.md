@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Lakshit%20Tyagi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-## About Me
+# About Me
 
 DevOps Engineer focused on building scalable infrastructure, automating deployments, and implementing production-grade CI/CD workflows.
 
@@ -20,7 +20,7 @@ Worked on projects involving:
 - Cost optimization and infrastructure analysis
 - Secure artifact management and deployment strategies
 
-Open to:
+## Open to:
 - Full-time DevOps roles
 - Internship opportunities
 - Contract-based infrastructure & automation work
